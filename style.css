@@ -5,5 +5,12 @@ h1 {
   color: cyan;
 }
 ul {
-  color: white;
+  color: #ffffff;
+}
+.done {
+  text-decoration: line-through;
+  color: lime;
+}
+.hover {
+  text-decoration: underline;
 }
